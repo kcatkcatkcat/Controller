@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ac5e7cbe1d771244c8372e6b230cd26b
+timeCreated: 1478932294
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: A-OTF Futo Min A101 Pro
+  fontNames:
+  - A-OTF Futo Min A101 Pro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

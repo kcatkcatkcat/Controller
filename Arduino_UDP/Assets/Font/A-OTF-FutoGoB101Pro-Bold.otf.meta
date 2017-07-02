@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 66ebe6a3e597d014d91e70fb45aed929
+timeCreated: 1478932232
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: A-OTF Futo Go B101 Pro
+  fontNames:
+  - A-OTF Futo Go B101 Pro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
